@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W6/HQ9G1K0EBV3QKSCQBPCO9C.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KQ/9Y1A60YAMMUX12G2CL5IN6.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_FireWall.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_Window.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_Victim.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/BPI_Interact.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/UI/WBP_PlayerUI.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/UI/WBP_Menu.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_EndLevel.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_FirePillar.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_BrokenWall.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JT/VW3IO9RH84ZFCE42HQM202.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/Plateformer/Content/Blueprints/Actors/BP_WaterPack.uasset"
+			]
+		}
+	]
+}
