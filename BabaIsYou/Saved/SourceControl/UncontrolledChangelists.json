@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/EDUSERVICES/Documents/GitHub/GD/BabaIsYou/Content/ThirdPerson/BP_Pawn.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/BabaIsYou/Content/ThirdPerson/BP_Actor.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/BabaIsYou/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/GitHub/GD/BabaIsYou/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/CC/ZPIIIS77XENQAPUAZBVNTM.uasset",
 				"F:/GitHub/GD/BabaIsYou/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/GitHub/GD/BabaIsYou/Content/ThirdPerson/BP_Pawn.uasset",
