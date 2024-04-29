@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/BP_ressources.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/T3/M5BBOS4Z3XIA3L7B9B8XGB.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BL/7TL4ZGUJSSA0L3WANWFDGX.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/DomeKeeper/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9X/8V8SNBBWX9PMU12OUS034V.uasset"
+			]
+		}
+	]
+}
