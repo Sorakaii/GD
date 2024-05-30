@@ -8,8 +8,10 @@
 				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Maps/MarioUI.umap",
 				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/BP_Kingdom.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/BP_test.uasset",
-				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/BP_pivot.uasset"
+				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/BP_pivot.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/WBP_SelectionLevel.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/WBP_Button.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/VRAC/Content/Projects/MarioUI/BP_test.uasset"
 			]
 		}
 	]
