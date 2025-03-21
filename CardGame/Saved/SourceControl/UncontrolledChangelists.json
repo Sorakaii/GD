@@ -73,6 +73,8 @@
 				"D:/EDUSERVICES/Documents/GitHub/GD/CardGame/Content/Textures/GreenFrame.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/CardGame/Content/Blueprints/utility/BPF_Utility.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/CardGame/Content/Blueprints/STR_FramePositionToMove.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/CardGame/Content/Textures/BlueFrame.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/CardGame/Content/Blueprints/E_FrameStatut.uasset",
 				"F:/Unreal Projects/CardGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/Unreal Projects/CardGame/Content/Blueprints/Widget/WBP_Array.uasset",
 				"F:/Unreal Projects/CardGame/Content/Blueprints/BP_CardGameMode.uasset",
