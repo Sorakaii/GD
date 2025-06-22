@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GitHub/GD/RogueLiteMusic/Content/Blueprints/Widget/WBP_BoonHUD.uasset",
+				"F:/GitHub/GD/RogueLiteMusic/Content/Blueprints/Collectibles/BP_Collectible.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/RogueLiteMusic/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/RogueLiteMusic/Content/Blueprints/E_CollectibleType.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/RogueLiteMusic/Content/Blueprints/Collectibles/BP_Collectible.uasset",
