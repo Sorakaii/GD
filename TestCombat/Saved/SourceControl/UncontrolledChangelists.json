@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Input/IMC_Default.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Input/IMC_Combat.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/Collectibles/BP_Collectible.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Lvl_Combat.umap",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/Widget/WBP_BoonHUD.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Blueprints/BP_CombatCharacter.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Materials/M_Rock.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_PopBoons.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_JazzBoons.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_ClassiqueBoons.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_ElectroBoons.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_CountryBoons.uasset"
+			]
+		}
+	]
+}
