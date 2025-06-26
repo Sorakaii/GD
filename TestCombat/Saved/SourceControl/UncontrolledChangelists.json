@@ -20,7 +20,18 @@
 				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_ElectroBoons.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/BoonsData/DT_CountryBoons.uasset",
 				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Input/Actions/IA_Dash.uasset",
-				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/DynamicEnviro/BP_EnviroSpawner.uasset"
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Blueprints/DynamicEnviro/BP_EnviroSpawner.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_Parry.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Input/Actions/IA_Parry.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Input/Actions/IA_Sprint.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Anims/AM_ComboAttackEnemy.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Anims/AM_ChargedAttackEnemy.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Anims/AN_AttackFeedback.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Blueprints/BPI_ShowFeedback.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Characters/Mannequins/Materials/Manny/MI_MannyParry.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Characters/Mannequins/Materials/Manny/MI_Manny_Parry.uasset",
+				"D:/EDUSERVICES/Documents/GitHub/GD/TestCombat/Content/Variant_Combat/Input/Actions/IA_Lock.uasset"
 			]
 		}
 	]
