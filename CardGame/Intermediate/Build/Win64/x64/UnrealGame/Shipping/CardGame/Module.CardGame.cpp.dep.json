@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\github\\gd\\cardgame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\cardgame\\module.cardgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\github\\gd\\cardgame\\intermediate\\build\\win64\\x64\\cardgame\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\github\\gd\\cardgame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\cardgame\\definitions.cardgame.h",
+            "f:\\github\\gd\\cardgame\\intermediate\\source\\cardgame.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
